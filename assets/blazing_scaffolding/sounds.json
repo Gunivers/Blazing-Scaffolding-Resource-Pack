@@ -1,0 +1,32 @@
+{
+    "classic_theme_1": {
+      "sounds": [
+        "blazing_scaffolding/valentine_by_wintergatan"
+      ]
+    },
+    "classic_theme_2": {
+      "sounds": [
+        "blazing_scaffolding/the_dying_by_dstechnician"
+      ]
+    },
+    "classic_theme_3": {
+        "sounds": [
+          "blazing_scaffolding/rush_this_by_keyframe_audio"
+        ]
+    },
+    "hardcore_theme_1": {
+      "sounds": [
+        "blazing_scaffolding/epic_metal_dubstep_cinematic_by_alex_kizenkov"
+      ]
+    },
+    "hardcore_theme_2": {
+        "sounds": [
+          "blazing_scaffolding/rage_by_gvidon_levkinbardyuzha"
+        ]
+    },
+    "lava_drown": {
+        "sounds": [
+          "blazing_scaffolding/lava_drown"
+        ]
+    }
+}

@@ -1,1 +1,0 @@
-# Scaffolding-Rush-Resource-Pack
