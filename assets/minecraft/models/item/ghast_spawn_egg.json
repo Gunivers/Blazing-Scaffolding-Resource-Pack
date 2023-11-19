@@ -1,0 +1,6 @@
+{
+   "parent":"minecraft:item/villager",
+   "textures":{
+      "0":"item/villager/reload"
+   }
+}
